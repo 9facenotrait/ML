@@ -253,3 +253,22 @@ That said, here are a few rules of thumb for hyperparameter tuning:
 ->  Setting the batch size to a _very_ small batch number can also cause instability. First, try large batch size values. Then, decrease the batch size until you see degradation.
 ->  For real-world datasets consisting of a very large number of examples, the entire dataset might not fit into memory. In such cases, you'll need to reduce the batch size to enable a batch to fit into memory.
 ```
+
+
+------------
+
+**EJEMPLO CSV**
+
+-> Columnas van primero, separadas por comas
+-> Cada fila separa sus columnas con comas, cada fila se separa de la siguiente
+    con \\n
+    
+![[california_housing_train 1.csv]]
+
+```
+#Creacion DataFrame a partir de CSV
+
+df = pd.read_csv(filepath_or_buffer="https://download.mlcc.google.com/mledu-datasets/california_housing_train.csv")
+```
+
+----------------------

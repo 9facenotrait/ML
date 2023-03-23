@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "76e1782818dfca11",
+    "type": "split",
+    "children": [
+      {
+        "id": "6422a0bade60fb46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f94b3738a51b4e89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aad8c76758be9f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STATISTIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94dbe26e86a1cceb",
+    "type": "split",
+    "children": [
+      {
+        "id": "87307a2f39dee494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be05f3afa3419469",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "28a170b504587301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#multiplies",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d680607e767e384",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f66cc869bbc6fd8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "563a5456c1a196a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c215b88d4cd6d916",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STATISTIC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71b6407e12bc0d01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STATISTIC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a23568108c066920",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d15781166628296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STATISTIC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aad8c76758be9f02",
+  "lastOpenFiles": [
+    "ML.md",
+    "STATISTIC.md",
+    "california_housing_train 1.csv",
+    "california_housing_train.csv",
+    "Pasted image 20230317024727.png",
+    "Pasted image 20230317024721.png",
+    "Pasted image 20230317024716.png",
+    "Pasted image 20230317024647.png",
+    "Pasted image 20230317023611.png",
+    "Pasted image 20230317023421.png",
+    "Pasted image 20230317023157.png",
+    "Pasted image 202![[Pasted image 20230317023106.png.md",
+    "Pasted image 20230317023108.png",
+    "Pasted image 20230317023106.png",
+    "Pasted image 20230317022300.png"
+  ]
+}
